@@ -1,0 +1,7 @@
+db.books.insertOne({
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "publishedYear": 1951,
+    "genre": "Fiction",
+    "copiesSold": 65000000
+});

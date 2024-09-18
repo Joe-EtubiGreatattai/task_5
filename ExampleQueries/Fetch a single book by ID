@@ -1,0 +1,3 @@
+Book.findById(bookId)
+    .then(book => console.log(book))
+    .catch(err => console.error(err));

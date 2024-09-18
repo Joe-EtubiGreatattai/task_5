@@ -1,0 +1,3 @@
+Book.find()
+    .then(books => console.log(books))
+    .catch(err => console.error(err));
